@@ -5,6 +5,6 @@ Console.WriteLine("Hello, World!");
 //group name competitions 
 //<!--
 //           _
-//       .__(.)< (MEOW)
+//       .__(.)< (MEOW DUCKS)
 //        \___)
 // ~~~~~~~~~~~~~~~~~~-->
